@@ -1,5 +1,7 @@
 {
   "name": "toy_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bcrypt": "^3.0.6"
+  }
 }
